@@ -8,3 +8,4 @@
 # fr  French   Francais
 # it  Italian  Italiano
 # pl  Polish   Polski
+# kr  Korean   
