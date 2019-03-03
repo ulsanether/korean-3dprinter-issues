@@ -16,7 +16,7 @@ https://github.com/ulsanether/Slic3rkorean
 
 #오리지날 PRUSA용 각종 프로파일 모음.
 
-https://github.com/ulsanether/prusa_profiles\
+https://github.com/ulsanether/prusa_profiles
 
 
 
